@@ -1,4 +1,4 @@
-# 
+# high-frequency Trading Bot for dydx trading bot | impermanent-loss-protection & slippage-control is the best dydx trading bot, featuring impermanent-loss-protection and
 
 
 
